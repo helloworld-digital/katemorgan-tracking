@@ -1,0 +1,608 @@
+2017-06-15 20:51:51 ----- Job Start [MEL Job History Thursday, 15 June 2017 18_04_37.XLS] ----- 
+2017-06-15 20:51:52 11674 Alison Greenwell magreenwell@xtra.co.nz AUSTRALIA POST ES939678089AU https://katemorgan.co.nz/my-account/view-order/11674
+2017-06-15 20:51:55 11676 Linnea Backman backman@hotmail.com AUSTRALIA POST ES939677295AU https://katemorgan.co.nz/my-account/view-order/11676
+2017-06-15 20:51:57 11678 Janice Wilson rodney.janicew@gmail.com AUSTRALIA POST ES939677786AU https://katemorgan.co.nz/my-account/view-order/11678
+2017-06-15 20:51:59 11680 Bridget Banks bridget.banks@clear.net.nz AUSTRALIA POST ES939677874AU https://katemorgan.co.nz/my-account/view-order/11680
+2017-06-15 20:52:00 11682 Tracey McGrath traceyleemcgrath@hotmail.co.nz AUSTRALIA POST ES939677931AU https://katemorgan.co.nz/my-account/view-order/11682
+2017-06-15 20:52:02 11684 Sara Cannon s.cannon@xtra.co.nz AUSTRALIA POST ES939677300AU https://katemorgan.co.nz/my-account/view-order/11684
+2017-06-15 20:52:04 11686 Kelly Smith kellykiwii@yahoo.com AUSTRALIA POST ES939677313AU https://katemorgan.co.nz/my-account/view-order/11686
+2017-06-15 20:52:06 11687 Ray Gorin raygorin@gmail.com AUSTRALIA POST ES939677976AU https://katemorgan.co.nz/my-account/view-order/11687
+2017-06-15 20:52:08 11689 Ruthann Doyle johnandruthann@paradise.net.nz AUSTRALIA POST ES939677327AU https://katemorgan.co.nz/my-account/view-order/11689
+2017-06-15 20:52:09 11691 Papua Taumate ptaumate@gmail.com AUSTRALIA POST ES939677335AU https://katemorgan.co.nz/my-account/view-order/11691
+2017-06-15 20:52:11 11693 Suzanne Wells suzanne.wells@foms.co.nz AUSTRALIA POST ES939677344AU https://katemorgan.co.nz/my-account/view-order/11693
+2017-06-15 20:52:13 12221 Nicole Ferris nicole.ferris79@gmail.com STAR TRACK EXPRESS 4IHZ00004292 https://katemorgan.com.au/my-account/view-order/12221
+2017-06-15 20:52:15 12223 Jan Burgess dudleysdiary@hotmail.com STAR TRACK EXPRESS 4IHZ00004293 https://katemorgan.com.au/my-account/view-order/12223
+2017-06-15 20:52:17 12224 Aileen McCulloch landamac@iinet.net.au STAR TRACK EXPRESS 4IHZ00004294 https://katemorgan.com.au/my-account/view-order/12224
+2017-06-15 20:52:18 12230 Suzanne Shiell sjshiell@yahoo.com.au STAR TRACK EXPRESS 4IHZ00004295 https://katemorgan.com.au/my-account/view-order/12230
+2017-06-15 20:52:20 12232 Vivienne Phillips vivp57@gmail.com STAR TRACK EXPRESS 4IHZ00004296 https://katemorgan.com.au/my-account/view-order/12232
+----- Recipients -----
+Alison Greenwell <magreenwell@xtra.co.nz>,Linnea Backman <backman@hotmail.com>,Janice Wilson <rodney.janicew@gmail.com>,Bridget Banks <bridget.banks@clear.net.nz>,Tracey McGrath <traceyleemcgrath@hotmail.co.nz>,Sara Cannon <s.cannon@xtra.co.nz>,Kelly Smith <kellykiwii@yahoo.com>,Ray Gorin <raygorin@gmail.com>,Ruthann Doyle <johnandruthann@paradise.net.nz>,Papua Taumate <ptaumate@gmail.com>,Suzanne Wells <suzanne.wells@foms.co.nz>,Nicole Ferris <nicole.ferris79@gmail.com>,Jan Burgess <dudleysdiary@hotmail.com>,Aileen McCulloch <landamac@iinet.net.au>,Suzanne Shiell <sjshiell@yahoo.com.au>,Vivienne Phillips <vivp57@gmail.com>
+----- Recipients Variable -----
+stdClass Object
+(
+    [magreenwell@xtra.co.nz] => stdClass Object
+        (
+            [order_id] => 11674
+            [consignee] => Alison Greenwell
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939678089AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11674
+        )
+
+    [backman@hotmail.com] => stdClass Object
+        (
+            [order_id] => 11676
+            [consignee] => Linnea Backman
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677295AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11676
+        )
+
+    [rodney.janicew@gmail.com] => stdClass Object
+        (
+            [order_id] => 11678
+            [consignee] => Janice Wilson
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677786AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11678
+        )
+
+    [bridget.banks@clear.net.nz] => stdClass Object
+        (
+            [order_id] => 11680
+            [consignee] => Bridget Banks
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677874AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11680
+        )
+
+    [traceyleemcgrath@hotmail.co.nz] => stdClass Object
+        (
+            [order_id] => 11682
+            [consignee] => Tracey McGrath
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677931AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11682
+        )
+
+    [s.cannon@xtra.co.nz] => stdClass Object
+        (
+            [order_id] => 11684
+            [consignee] => Sara Cannon
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677300AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11684
+        )
+
+    [kellykiwii@yahoo.com] => stdClass Object
+        (
+            [order_id] => 11686
+            [consignee] => Kelly Smith
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677313AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11686
+        )
+
+    [raygorin@gmail.com] => stdClass Object
+        (
+            [order_id] => 11687
+            [consignee] => Ray Gorin
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677976AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11687
+        )
+
+    [johnandruthann@paradise.net.nz] => stdClass Object
+        (
+            [order_id] => 11689
+            [consignee] => Ruthann Doyle
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677327AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11689
+        )
+
+    [ptaumate@gmail.com] => stdClass Object
+        (
+            [order_id] => 11691
+            [consignee] => Papua Taumate
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677335AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11691
+        )
+
+    [suzanne.wells@foms.co.nz] => stdClass Object
+        (
+            [order_id] => 11693
+            [consignee] => Suzanne Wells
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939677344AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11693
+        )
+
+    [nicole.ferris79@gmail.com] => stdClass Object
+        (
+            [order_id] => 12221
+            [consignee] => Nicole Ferris
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004292
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12221
+        )
+
+    [dudleysdiary@hotmail.com] => stdClass Object
+        (
+            [order_id] => 12223
+            [consignee] => Jan Burgess
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004293
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12223
+        )
+
+    [landamac@iinet.net.au] => stdClass Object
+        (
+            [order_id] => 12224
+            [consignee] => Aileen McCulloch
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004294
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12224
+        )
+
+    [sjshiell@yahoo.com.au] => stdClass Object
+        (
+            [order_id] => 12230
+            [consignee] => Suzanne Shiell
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004295
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12230
+        )
+
+    [vivp57@gmail.com] => stdClass Object
+        (
+            [order_id] => 12232
+            [consignee] => Vivienne Phillips
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004296
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12232
+        )
+
+)
+
+2017-06-15 20:52:20 ----- Job End [MEL Job History Thursday, 15 June 2017 18_04_37.XLS] ----- 
+2017-06-15 20:52:20 ----- Job Start [MEL Job History Tuesday, 06 June 2017 18_05_57.XLS] ----- 
+2017-06-15 20:52:22 11166 Sandra Blake thegeorgied@yahoo.com STAR TRACK EXPRESS 4IHZ00004226 https://katemorgan.com.au/my-account/view-order/11166
+2017-06-15 20:52:24 11468 Kavin King kavking@ihug.co.nz AUSTRALIA POST ES939497395AU https://katemorgan.co.nz/my-account/view-order/11468
+2017-06-15 20:52:28 11470 Linda Halfpenny halfpenl@orcon.net.nz AUSTRALIA POST ES939497387AU https://katemorgan.co.nz/my-account/view-order/11470
+2017-06-15 20:52:29 11489 Angela Gill jasonandangela@xtra.co.nz AUSTRALIA POST ES939497271AU https://katemorgan.co.nz/my-account/view-order/11489
+2017-06-15 20:52:32 11491 Peter May pkmay@clear.net.nz AUSTRALIA POST ES939498780AU https://katemorgan.co.nz/my-account/view-order/11491
+2017-06-15 20:52:34 11492 Victoria Thomson victoria.thomson2@hotmail.com AUSTRALIA POST ES939498630AU https://katemorgan.co.nz/my-account/view-order/11492
+2017-06-15 20:52:36 11495 Justine McLeary justinemcleary@gmail.com AUSTRALIA POST ES939497285AU https://katemorgan.co.nz/my-account/view-order/11495
+2017-06-15 20:52:37 11497 Dianne Tosland dianne@haweratravel.co.nz AUSTRALIA POST ES939498475AU https://katemorgan.co.nz/my-account/view-order/11497
+2017-06-15 20:52:39 11499 Justine Thompson justine.thompson@ihug.co.nz AUSTRALIA POST ES939497299AU https://katemorgan.co.nz/my-account/view-order/11499
+2017-06-15 20:52:41 11502 Julie McKinnel juliemck96@gmail.com AUSTRALIA POST ES939498294AU https://katemorgan.co.nz/my-account/view-order/11502
+2017-06-15 20:52:42 11504 Adele Tonkin del.nige@slingshot.co.nz AUSTRALIA POST ES939497308AU https://katemorgan.co.nz/my-account/view-order/11504
+2017-06-15 20:52:44 11506 Pat Carrington patcarrington@xtra.co.nz AUSTRALIA POST ES939497311AU https://katemorgan.co.nz/my-account/view-order/11506
+2017-06-15 20:52:47 11508 Jolene Wilson jolenefinch@slingshot.co.nz AUSTRALIA POST ES939497325AU https://katemorgan.co.nz/my-account/view-order/11508
+2017-06-15 20:52:49 11509 Linda Marshall plamarshall@xtra.co.nz AUSTRALIA POST ES939497339AU https://katemorgan.co.nz/my-account/view-order/11509
+2017-06-15 20:52:52 11511 Jackie Carruthers jackie@dae.co.nz AUSTRALIA POST ES939497342AU https://katemorgan.co.nz/my-account/view-order/11511
+2017-06-15 20:52:53 11513 Irene Katsougiannis irenepkats@gmail.com AUSTRALIA POST ES939497356AU https://katemorgan.co.nz/my-account/view-order/11513
+2017-06-15 20:52:55 11515 carmen beynon carmen@dargavilledocs.co.nz AUSTRALIA POST ES939497360AU https://katemorgan.co.nz/my-account/view-order/11515
+2017-06-15 20:52:57 11517 Carmen Connolly tomcar@xtra.co.nz AUSTRALIA POST ES939497373AU https://katemorgan.co.nz/my-account/view-order/11517
+2017-06-15 20:52:59 11519 Nancy Millett nancymillett@outlook.com AUSTRALIA POST ES939498422AU https://katemorgan.co.nz/my-account/view-order/11519
+2017-06-15 20:53:00 11521 Wendy Gabriel sonrise.wg@xtra.co.nz AUSTRALIA POST ES939497400AU https://katemorgan.co.nz/my-account/view-order/11521
+2017-06-15 20:53:02 11523 Liz Maloney bluebunka@xtra.co.nz AUSTRALIA POST ES939498569AU https://katemorgan.co.nz/my-account/view-order/11523
+2017-06-15 20:53:05 11524 Gail Thomson g.thomson43@googlemail.com AUSTRALIA POST ES939497413AU https://katemorgan.co.nz/my-account/view-order/11524
+2017-06-15 20:53:07 11526 Kylie Adair kadair@rocketmail.com AUSTRALIA POST ES939497427AU https://katemorgan.co.nz/my-account/view-order/11526
+2017-06-15 20:53:08 11528 sandra Boston sandra@kiwicakes.co.nz AUSTRALIA POST ES939497435AU https://katemorgan.co.nz/my-account/view-order/11528
+2017-06-15 20:53:11 11530 Amy Frechtling ames.lizzy@gmail.com AUSTRALIA POST ES939497444AU https://katemorgan.co.nz/my-account/view-order/11530
+2017-06-15 20:53:13 11531 Joanne Watson ijgwatson114@hotmail.com AUSTRALIA POST ES939497458AU https://katemorgan.co.nz/my-account/view-order/11531
+2017-06-15 20:53:15 12035 Terina Eastman Terinaeastman@hotmail.com STAR TRACK EXPRESS 4IHZ00004185 https://katemorgan.com.au/my-account/view-order/12035
+2017-06-15 20:53:17 12037 Jenny Vatchenko jelv6@yahoo.com.au STAR TRACK EXPRESS 4IHZ00004221-4IHZ00004222 https://katemorgan.com.au/my-account/view-order/12037
+2017-06-15 20:53:18 12038 Samantha Edwards edwards.sam80@gmail.com STAR TRACK EXPRESS 4IHZ00004206 https://katemorgan.com.au/my-account/view-order/12038
+2017-06-15 20:53:20 12040 Alisha ROPER alisha@bayoffiresecotours.com.au STAR TRACK EXPRESS 4IHZ00004207 https://katemorgan.com.au/my-account/view-order/12040
+2017-06-15 20:53:21 12042 Michael Richardson mike@bettanet.net.au STAR TRACK EXPRESS 4IHZ00004208 https://katemorgan.com.au/my-account/view-order/12042
+2017-06-15 20:53:23 12044 Will Baxter chrissie.cox@hotmail.com STAR TRACK EXPRESS 4IHZ00004209 https://katemorgan.com.au/my-account/view-order/12044
+2017-06-15 20:53:25 12046 Adam Nutting ajn74@live.com.au STAR TRACK EXPRESS 4IHZ00004210 https://katemorgan.com.au/my-account/view-order/12046
+2017-06-15 20:53:27 12048 Lauren Hailwood laurennick@live.com STAR TRACK EXPRESS 4IHZ00004211 https://katemorgan.com.au/my-account/view-order/12048
+2017-06-15 20:53:28 12050 Tracey Turner traceylizturner@icloud.com STAR TRACK EXPRESS 4IHZ00004212 https://katemorgan.com.au/my-account/view-order/12050
+2017-06-15 20:53:30 12052 brent Johansen bbc111@bigpond.com STAR TRACK EXPRESS 4IHZ00004213 https://katemorgan.com.au/my-account/view-order/12052
+2017-06-15 20:53:31 12053 Tina Lockhart rtalockhart@bigpond.com STAR TRACK EXPRESS 4IHZ00004214 https://katemorgan.com.au/my-account/view-order/12053
+2017-06-15 20:53:33 12055 Jenny Brown robandjen45@gmail.com STAR TRACK EXPRESS 4IHZ00004215 https://katemorgan.com.au/my-account/view-order/12055
+2017-06-15 20:53:36 12056 Debbie Tempra sjdtempra@westnet.com.au AUSTRALIA POST XT30002596 https://katemorgan.com.au/my-account/view-order/12056
+2017-06-15 20:53:38 12058 Carol Sadler carollsadler@gmail.com STAR TRACK EXPRESS 4IHZ00004223 https://katemorgan.com.au/my-account/view-order/12058
+2017-06-15 20:53:40 12060 Michelle Wunderlich mrswunders@gmail.com STAR TRACK EXPRESS 4IHZ00004225-4IHZ00004224 https://katemorgan.com.au/my-account/view-order/12060
+2017-06-15 20:53:41 12062 William Mcdowell billeen5@bigpond.com STAR TRACK EXPRESS 4IHZ00004218 https://katemorgan.com.au/my-account/view-order/12062
+2017-06-15 20:53:42 12064 Christine Hodgson chris.hodgson@manjimup.wa.gov.au STAR TRACK EXPRESS 4IHZ00004220 https://katemorgan.com.au/my-account/view-order/12064
+----- Recipients -----
+Sandra Blake <thegeorgied@yahoo.com>,Kavin King <kavking@ihug.co.nz>,Linda Halfpenny <halfpenl@orcon.net.nz>,Angela Gill <jasonandangela@xtra.co.nz>,Peter May <pkmay@clear.net.nz>,Victoria Thomson <victoria.thomson2@hotmail.com>,Justine McLeary <justinemcleary@gmail.com>,Dianne Tosland <dianne@haweratravel.co.nz>,Justine Thompson <justine.thompson@ihug.co.nz>,Julie McKinnel <juliemck96@gmail.com>,Adele Tonkin <del.nige@slingshot.co.nz>,Pat Carrington <patcarrington@xtra.co.nz>,Jolene Wilson <jolenefinch@slingshot.co.nz>,Linda Marshall <plamarshall@xtra.co.nz>,Jackie Carruthers <jackie@dae.co.nz>,Irene Katsougiannis <irenepkats@gmail.com>,carmen beynon <carmen@dargavilledocs.co.nz>,Carmen Connolly <tomcar@xtra.co.nz>,Nancy Millett <nancymillett@outlook.com>,Wendy Gabriel <sonrise.wg@xtra.co.nz>,Liz Maloney <bluebunka@xtra.co.nz>,Gail Thomson <g.thomson43@googlemail.com>,Kylie Adair <kadair@rocketmail.com>,sandra Boston <sandra@kiwicakes.co.nz>,Amy Frechtling <ames.lizzy@gmail.com>,Joanne Watson <ijgwatson114@hotmail.com>,Terina Eastman <Terinaeastman@hotmail.com>,Jenny Vatchenko <jelv6@yahoo.com.au>,Samantha Edwards <edwards.sam80@gmail.com>,Alisha ROPER <alisha@bayoffiresecotours.com.au>,Michael Richardson <mike@bettanet.net.au>,Will Baxter <chrissie.cox@hotmail.com>,Adam Nutting <ajn74@live.com.au>,Lauren Hailwood <laurennick@live.com>,Tracey Turner <traceylizturner@icloud.com>,brent Johansen <bbc111@bigpond.com>,Tina Lockhart <rtalockhart@bigpond.com>,Jenny Brown <robandjen45@gmail.com>,Debbie Tempra <sjdtempra@westnet.com.au>,Carol Sadler <carollsadler@gmail.com>,Michelle Wunderlich <mrswunders@gmail.com>,William Mcdowell <billeen5@bigpond.com>,Christine Hodgson <chris.hodgson@manjimup.wa.gov.au>
+----- Recipients Variable -----
+stdClass Object
+(
+    [thegeorgied@yahoo.com] => stdClass Object
+        (
+            [order_id] => 11166
+            [consignee] => Sandra Blake
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004226
+            [order_url] => https://katemorgan.com.au/my-account/view-order/11166
+        )
+
+    [kavking@ihug.co.nz] => stdClass Object
+        (
+            [order_id] => 11468
+            [consignee] => Kavin King
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497395AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11468
+        )
+
+    [halfpenl@orcon.net.nz] => stdClass Object
+        (
+            [order_id] => 11470
+            [consignee] => Linda Halfpenny
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497387AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11470
+        )
+
+    [jasonandangela@xtra.co.nz] => stdClass Object
+        (
+            [order_id] => 11489
+            [consignee] => Angela Gill
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497271AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11489
+        )
+
+    [pkmay@clear.net.nz] => stdClass Object
+        (
+            [order_id] => 11491
+            [consignee] => Peter May
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939498780AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11491
+        )
+
+    [victoria.thomson2@hotmail.com] => stdClass Object
+        (
+            [order_id] => 11492
+            [consignee] => Victoria Thomson
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939498630AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11492
+        )
+
+    [justinemcleary@gmail.com] => stdClass Object
+        (
+            [order_id] => 11495
+            [consignee] => Justine McLeary
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497285AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11495
+        )
+
+    [dianne@haweratravel.co.nz] => stdClass Object
+        (
+            [order_id] => 11497
+            [consignee] => Dianne Tosland
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939498475AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11497
+        )
+
+    [justine.thompson@ihug.co.nz] => stdClass Object
+        (
+            [order_id] => 11499
+            [consignee] => Justine Thompson
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497299AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11499
+        )
+
+    [juliemck96@gmail.com] => stdClass Object
+        (
+            [order_id] => 11502
+            [consignee] => Julie McKinnel
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939498294AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11502
+        )
+
+    [del.nige@slingshot.co.nz] => stdClass Object
+        (
+            [order_id] => 11504
+            [consignee] => Adele Tonkin
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497308AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11504
+        )
+
+    [patcarrington@xtra.co.nz] => stdClass Object
+        (
+            [order_id] => 11506
+            [consignee] => Pat Carrington
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497311AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11506
+        )
+
+    [jolenefinch@slingshot.co.nz] => stdClass Object
+        (
+            [order_id] => 11508
+            [consignee] => Jolene Wilson
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497325AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11508
+        )
+
+    [plamarshall@xtra.co.nz] => stdClass Object
+        (
+            [order_id] => 11509
+            [consignee] => Linda Marshall
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497339AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11509
+        )
+
+    [jackie@dae.co.nz] => stdClass Object
+        (
+            [order_id] => 11511
+            [consignee] => Jackie Carruthers
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497342AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11511
+        )
+
+    [irenepkats@gmail.com] => stdClass Object
+        (
+            [order_id] => 11513
+            [consignee] => Irene Katsougiannis
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497356AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11513
+        )
+
+    [carmen@dargavilledocs.co.nz] => stdClass Object
+        (
+            [order_id] => 11515
+            [consignee] => carmen beynon
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497360AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11515
+        )
+
+    [tomcar@xtra.co.nz] => stdClass Object
+        (
+            [order_id] => 11517
+            [consignee] => Carmen Connolly
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497373AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11517
+        )
+
+    [nancymillett@outlook.com] => stdClass Object
+        (
+            [order_id] => 11519
+            [consignee] => Nancy Millett
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939498422AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11519
+        )
+
+    [sonrise.wg@xtra.co.nz] => stdClass Object
+        (
+            [order_id] => 11521
+            [consignee] => Wendy Gabriel
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497400AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11521
+        )
+
+    [bluebunka@xtra.co.nz] => stdClass Object
+        (
+            [order_id] => 11523
+            [consignee] => Liz Maloney
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939498569AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11523
+        )
+
+    [g.thomson43@googlemail.com] => stdClass Object
+        (
+            [order_id] => 11524
+            [consignee] => Gail Thomson
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497413AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11524
+        )
+
+    [kadair@rocketmail.com] => stdClass Object
+        (
+            [order_id] => 11526
+            [consignee] => Kylie Adair
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497427AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11526
+        )
+
+    [sandra@kiwicakes.co.nz] => stdClass Object
+        (
+            [order_id] => 11528
+            [consignee] => sandra Boston
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497435AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11528
+        )
+
+    [ames.lizzy@gmail.com] => stdClass Object
+        (
+            [order_id] => 11530
+            [consignee] => Amy Frechtling
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497444AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11530
+        )
+
+    [ijgwatson114@hotmail.com] => stdClass Object
+        (
+            [order_id] => 11531
+            [consignee] => Joanne Watson
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => ES939497458AU
+            [order_url] => https://katemorgan.co.nz/my-account/view-order/11531
+        )
+
+    [Terinaeastman@hotmail.com] => stdClass Object
+        (
+            [order_id] => 12035
+            [consignee] => Terina Eastman
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004185
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12035
+        )
+
+    [jelv6@yahoo.com.au] => stdClass Object
+        (
+            [order_id] => 12037
+            [consignee] => Jenny Vatchenko
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004221-4IHZ00004222
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12037
+        )
+
+    [edwards.sam80@gmail.com] => stdClass Object
+        (
+            [order_id] => 12038
+            [consignee] => Samantha Edwards
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004206
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12038
+        )
+
+    [alisha@bayoffiresecotours.com.au] => stdClass Object
+        (
+            [order_id] => 12040
+            [consignee] => Alisha ROPER
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004207
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12040
+        )
+
+    [mike@bettanet.net.au] => stdClass Object
+        (
+            [order_id] => 12042
+            [consignee] => Michael Richardson
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004208
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12042
+        )
+
+    [chrissie.cox@hotmail.com] => stdClass Object
+        (
+            [order_id] => 12044
+            [consignee] => Will Baxter
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004209
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12044
+        )
+
+    [ajn74@live.com.au] => stdClass Object
+        (
+            [order_id] => 12046
+            [consignee] => Adam Nutting
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004210
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12046
+        )
+
+    [laurennick@live.com] => stdClass Object
+        (
+            [order_id] => 12048
+            [consignee] => Lauren Hailwood
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004211
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12048
+        )
+
+    [traceylizturner@icloud.com] => stdClass Object
+        (
+            [order_id] => 12050
+            [consignee] => Tracey Turner
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004212
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12050
+        )
+
+    [bbc111@bigpond.com] => stdClass Object
+        (
+            [order_id] => 12052
+            [consignee] => brent Johansen
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004213
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12052
+        )
+
+    [rtalockhart@bigpond.com] => stdClass Object
+        (
+            [order_id] => 12053
+            [consignee] => Tina Lockhart
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004214
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12053
+        )
+
+    [robandjen45@gmail.com] => stdClass Object
+        (
+            [order_id] => 12055
+            [consignee] => Jenny Brown
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004215
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12055
+        )
+
+    [sjdtempra@westnet.com.au] => stdClass Object
+        (
+            [order_id] => 12056
+            [consignee] => Debbie Tempra
+            [transport_co] => AUSTRALIA POST
+            [transport_ref] => XT30002596
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12056
+        )
+
+    [carollsadler@gmail.com] => stdClass Object
+        (
+            [order_id] => 12058
+            [consignee] => Carol Sadler
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004223
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12058
+        )
+
+    [mrswunders@gmail.com] => stdClass Object
+        (
+            [order_id] => 12060
+            [consignee] => Michelle Wunderlich
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004225-4IHZ00004224
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12060
+        )
+
+    [billeen5@bigpond.com] => stdClass Object
+        (
+            [order_id] => 12062
+            [consignee] => William Mcdowell
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004218
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12062
+        )
+
+    [chris.hodgson@manjimup.wa.gov.au] => stdClass Object
+        (
+            [order_id] => 12064
+            [consignee] => Christine Hodgson
+            [transport_co] => STAR TRACK EXPRESS
+            [transport_ref] => 4IHZ00004220
+            [order_url] => https://katemorgan.com.au/my-account/view-order/12064
+        )
+
+)
+
+2017-06-15 20:53:43 ----- Job End [MEL Job History Tuesday, 06 June 2017 18_05_57.XLS] ----- 
